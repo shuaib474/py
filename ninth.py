@@ -17,7 +17,7 @@ try:
     else:
         print("sb,没次数了")
 except ValueError:
-    print("老冯升天了不会输数字吗 ")
+    print("hhh ")
 print("菜就多练")
 
         
