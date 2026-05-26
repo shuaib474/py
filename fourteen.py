@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import turtle
 from sympy import symbols,sin,cos,Eq,solve
 import math
@@ -57,11 +56,6 @@ t.pendown()
 t.write("20250608216 工程2 曾仁烨",font=("微软雅黑",20,"normal"))
 turtle.done()
 input()
-
-
-        
-
-=======
 import turtle
 from sympy import symbols,sin,cos,Eq,solve
 import math
